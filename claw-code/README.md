@@ -157,11 +157,7 @@ The restructuring and documentation work on this repository was AI-assisted and 
 
 *Split-pane review and verification flow during the final README wording pass.*
 
-## Community
 
-<p align="center">
-  <a href="https://instruct.kr/"><img src="assets/instructkr.png" alt="instructkr" width="400" /></a>
-</p>
 
 
 
